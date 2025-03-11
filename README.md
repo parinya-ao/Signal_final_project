@@ -121,7 +121,7 @@ See `main.py` for a complete implementation of the audio processing pipeline, in
 - Frequency shifting back to original range
 - Quality evaluation
 
-ดูไฟล์ `main.py` สำหรับการใช้งานกระบวนการประมวลผลเสียงทั้งหมด ซึ่งรวมถึง:
+ดูไฟล์ `signal_sound/src/sound_main.ipynb` สำหรับการใช้งานกระบวนการประมวลผลเสียงทั้งหมด ซึ่งรวมถึง:
 - การลดสัญญาณรบกวน
 - การเลื่อนความถี่
 - การรวมสัญญาณเสียง
