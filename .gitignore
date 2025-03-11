@@ -1,0 +1,6 @@
+*.wav
+*.png
+.ipynb_checkpoints/
+plots/
+noisewav/
+*.docx
