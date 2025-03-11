@@ -38,7 +38,7 @@ This project presents a secure voice communication system that utilizes frequenc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/secret-voice-communication.git
+git clone https://github.com/parinya-ao/secret-voice-communication.git
 cd secret-voice-communication
 
 # Create virtual environment (optional)
