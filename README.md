@@ -211,7 +211,7 @@ The system achieves excellent quality metrics for recovered audio:
 
 ## Author | ผู้จัดทำ
 
-- Parinya Apaun | ปริญญา อบอุ่น
+- Parinya Aobaun | ปริญญา อบอุ่น
   - Department of Computer Engineering, Faculty of Engineering, Kasetsart University
   - ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเกษตรศาสตร์
 
